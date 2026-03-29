@@ -473,3 +473,5 @@ ISC
 - Tipo: Full-Stack Web Application (Backend API + Frontend Dashboard)
 - Estado: Listo para GitHub y entrega académica
 - Autor: Nolberto Gomez
+#   P r o y e c t o I n t e g r a d o r 2  
+ 
